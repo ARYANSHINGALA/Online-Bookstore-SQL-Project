@@ -14,9 +14,8 @@ Three CSV files were used.
 Table	: Description => Books : Book information | Customers :	Customer details | Orders :	Customer orders
 
 
-Database Schema
-
-![ER Diagram](Images/ER_Diagram.png)
+Database Schema =>
+![ER Diagram](https://github.com/ARYANSHINGALA/Online-Bookstore-SQL-Project/blob/main/ER_Diagram.png)
 
 
 Project Questions
