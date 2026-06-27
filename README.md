@@ -64,7 +64,7 @@ Books.csv |
 Customers.csv |
 Orders.csv .
 
-SQL File => 
+SQL File => https://github.com/ARYANSHINGALA/Online-Bookstore-SQL-Project/blob/main/SQL%20Project%20Solution%20Query.sql
 
 
 Author :
